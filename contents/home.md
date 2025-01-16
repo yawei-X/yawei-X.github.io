@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Xiongyawei](https://img.shields.io/badge/yawei-X-github-blue?logo=github)](https://github.com/yawei-X)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a master's degree in Network and Information Security, at Xidian University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+xiongyw02[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Cyberspace Security, Xidian University, 2024—2027 (expected).\
+B.E., Internet of Things Engineering, Nantong University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Embedded system, Edge Computing.
 
